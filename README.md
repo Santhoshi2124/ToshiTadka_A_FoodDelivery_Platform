@@ -3,7 +3,7 @@
 A full-stack food delivery & cloud-kitchen platform built using the **MERN** stack (MongoDB, Express, React, Node.js).  
 Supports restaurants, menus, user authentication, and order flows.
 
-![project-screenshot](/mnt/data/b4896a87-1031-4bb7-83b6-811419abee38.png)
+
 
 ---
 
