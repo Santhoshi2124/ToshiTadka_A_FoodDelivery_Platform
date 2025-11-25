@@ -1,0 +1,17 @@
+/* Reset some default browser styles */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa; /* A light background for the whole page */
+}
+
+/* --- THIS IS THE FIX --- */
+/* We remove the max-width and margin from the root to allow components like the navbar to go full-width */
+#root {
+  width: 100%;
+}
+

@@ -1,0 +1,50 @@
+.cravings-container {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 2.5rem 2rem;
+  border-radius: 12px;
+  text-align: center;
+  margin: 2rem 0;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.cravings-title {
+  font-size: 2rem;
+  color: #333;
+  margin: 0 0 0.5rem 0;
+}
+
+.cravings-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.cravings-form {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.cravings-input {
+  width: 100%;
+  max-width: 600px;
+  padding: 0.8rem 1.2rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.cravings-button {
+  padding: 0.8rem 1.8rem;
+  font-size: 1rem;
+  background-color: #ff6347; /* A vibrant, food-related color */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.cravings-button:hover {
+  background-color: #e5533d;
+}

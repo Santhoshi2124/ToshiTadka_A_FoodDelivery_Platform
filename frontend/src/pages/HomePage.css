@@ -1,0 +1,28 @@
+.home-container {
+  /* The max-width has been removed to allow the container to be full-screen */
+  margin: 0 auto;
+  padding: 1rem 1rem;
+}
+
+.home-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.restaurants-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.home-error {
+  text-align: center;
+  color: #d9534f;
+  background-color: #f2dede;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #d9534f;
+}
+

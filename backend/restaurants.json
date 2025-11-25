@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Meghana Foods",
+    "cuisine": "Biryani, North Indian, Andhra",
+    "address": "123, Koramangala, Bangalore",
+    "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+    "menuItems": []
+  },
+  {
+    "name": "Truffles",
+    "cuisine": "Burgers, Continental, American",
+    "address": "456, St. Mark's Road, Bangalore",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+    "menuItems": []
+  },
+  {
+    "name": "Vidyarthi Bhavan",
+    "cuisine": "South Indian",
+    "address": "789, Gandhi Bazaar, Bangalore",
+    "imageUrl": "https://media.istockphoto.com/id/638506124/photo/idli-with-coconut-chutney-and-sambhar.jpg?s=1024x1024&w=is&k=20&c=34BROQJocmqfEm7WsjxoILI06z0_FW5LahFaGMiepwA=",
+    "menuItems": []
+  },
+  {
+    "name": "Toit",
+    "cuisine": "Brewery, Italian, Pizza",
+    "address": "101, Indiranagar, Bangalore",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+    "menuItems": []
+  },
+  {
+    "name": "The Only Place",
+    "cuisine": "Steakhouse, American, Continental",
+    "address": "202, Museum Road, Bangalore",
+    "imageUrl": "https://images.unsplash.com/photo-1600891964092-4316c288032e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+    "menuItems": []
+  },
+  {
+    "name": "Mavalli Tiffin Rooms (MTR)",
+    "cuisine": "South Indian",
+    "address": "303, Lalbagh Road, Bangalore",
+    "imageUrl": "https://images.unsplash.com/photo-1626781492211-46459385315a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+    "menuItems": []
+  },
+  {
+    "name": "Nagarjuna",
+    "cuisine": "Andhra, Biryani",
+    "address": "30, Residency Road, Bangalore",
+    "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "menuItems": []
+  },
+  {
+    "name": "Corner House Ice Creams",
+    "cuisine": "Desserts, Ice Cream",
+    "address": "52, Residency Road, Bangalore",
+    "imageUrl": "https://images.pexels.com/photos/10837913/pexels-photo-10837913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "menuItems": []
+  },
+  {
+    "name": "Leon's Burgers & Wings",
+    "cuisine": "Fast Food, Burgers",
+    "address": "77, Indiranagar, Bangalore",
+    "imageUrl": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "menuItems": []
+  }
+]
+
